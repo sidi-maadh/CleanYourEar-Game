@@ -2,6 +2,12 @@
 The term "Clean Your Ear" actually comes from the culture of the Mauritanian Hassani community and means "listening to popular music". This term reflects the idea of ​​immersing oneself in music and letting oneself be invaded by its rhythms and sounds
 
 
+<b>Screenshot : <b/> 
+<br/><br/>
+![Table](https://i.ibb.co/NmHys2L/screenshot.png)
+
+
+
 <p/><p/><p/>
 <p align="center">
    	<b>
