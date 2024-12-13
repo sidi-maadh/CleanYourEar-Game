@@ -4,7 +4,7 @@ The term "Clean Your Ear" actually comes from the culture of the Mauritanian Has
 
 <b>Screenshot : <b/> 
 <br/><br/>
-![Table](https://i.ibb.co/NmHys2L/screenshot.png)
+![Table](https://i.ibb.co/t8FGwHF/screenshot.png)
 
 
 
