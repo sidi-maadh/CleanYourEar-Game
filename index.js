@@ -22,7 +22,6 @@ switch(key){
      tom1.play();
       break ;
 
-      
         case "a" :  
          var tom2 = new Audio('sounds/tom-2.mp3') ;
          tom2.play();
@@ -50,6 +49,26 @@ switch(key){
 
         case "l" :  
          var kick = new Audio ('sounds/kick-bass.mp3') ;
+         kick.play();
+         break ;
+
+        case "i" :  
+         var kick = new Audio ('sounds/piano.mp3') ;
+         kick.play();
+         break ;
+
+        case "v" :  
+         var kick = new Audio ('sounds/violoncello.mp3') ;
+         kick.play();
+         break ;
+
+        case "t" :  
+         var kick = new Audio ('sounds/trombone.mp3') ;
+         kick.play();
+         break ;
+         
+        case "f" :  
+         var kick = new Audio ('sounds/saxophone.mp3') ;
          kick.play();
          break ;
                     
