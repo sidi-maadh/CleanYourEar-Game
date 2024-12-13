@@ -1,39 +1,44 @@
 body {
   text-align: center;
-  background-color: #090909;
+  height: 100vh;
+  width: 100%;
+  background-image: url(images/background.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
 }
 
 h1 {
   font-size: 5rem;
-  color: #93e1fb;
-  font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #6c6c6c;
+  color: #020202;
+  font-family: "Lexend";
+  text-shadow: 3px 0 #b7b7b7;
 
 }
 
 footer {
-  color: #93e1fb;
-  font-family: "Arvo", cursive;
+  color: #060606;
+  font-family: "Lexend";
 }
 
 .w {
- background-image: url("images/tom1.png") ;
+ background-image: url("images/drum-1.png") ;
 
 }
 
 .a {
-  background-image: url("images/tom2.png") ;
+  background-image: url("images/drum-1.png") ;
 }
 
 .s {
-  background-image: url("images/tom3.png")
+  background-image: url("images/drum-2.png")
 }
 .d {
-  background-image: url("images/tom4.png") ;
+  background-image: url("images/drum-2.png") ;
 }
 
 .j {
-  background-image: url("images/snare.png") ;
+  background-image: url("images/snare-drum.png") ;
 }
 
 .k {
@@ -44,17 +49,33 @@ footer {
   background-image: url("images/kick.png") ;
 }
 
+.i {
+  background-image: url("images/piano.png") ;
+}
+
+.v {
+  background-image: url("images/violoncelle.png") ;
+}
+
+.t {
+  background-image: url("images/trombone.png") ;
+}
+
+.f {
+  background-image: url("images/saxophone.png") ;
+}
+
 .set {
   margin: 10% auto;
 }
 
 .game-over {
-  background-color: red;
+  background-color: rgb(243, 147, 147);
   opacity: 0.8;
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #93e1fb;
+  box-shadow: 0 3px 4px 0 #fdb4e9;
   opacity: 0.5;
 }
 
@@ -64,19 +85,19 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #3eddee;
+  border: 2px solid #070707;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
+  font-family: 'Lexend';
   line-height: 2;
   font-weight: 900;
-  color: #89ebf6;
-  text-shadow: 3px 0 #666767;
+  color: #99f4f6;
+  text-shadow: 3px 0 #070707;
   border-radius: 15px;
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   text-align: center;
-  margin: 10px;
+  margin: 17px;
   background-color: white;
 }
 
